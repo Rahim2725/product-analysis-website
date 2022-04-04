@@ -1,0 +1,36 @@
+.home-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 60px;
+}
+.headphone-detail{
+    text-align: start;
+}
+.headphone-detail h1{
+    color: orange;
+}
+.headphone-img{
+    display: flex ;
+    justify-content: end;
+}
+.home-container img{
+    width: 50%;
+}
+.headphone-detail button{
+    border: 0;
+    padding: 10px 20px;
+    background-color: orange;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.headphone-detail button:hover{
+    cursor: pointer;
+    background-color: gray;
+}
+
+
+
