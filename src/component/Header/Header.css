@@ -1,0 +1,12 @@
+.nav-container{
+    display: flex;
+    justify-content: center;
+}
+.nav-bar{
+    width: 400px;
+    display: flex;
+    box-shadow: 5px 5px 5px whitesmoke;
+} 
+.nav-bar div{
+    margin: 20px 20px;
+}
