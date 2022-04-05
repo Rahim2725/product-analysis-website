@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "624c020b3c428ee94f8c2462",
+      "picture": "https://raw.githubusercontent.com/Rahim2725/leader-borad/main/images/players/player-1.png",
+      "name": "Hollie Duffy",
+      "reting": 4.9,
+      "text" :"If I had to compare it to other premium headphones. The sound quality is good."
+    },
+    {
+      "_id": "624c020b689a8921f629b454",
+      "picture": "https://raw.githubusercontent.com/Rahim2725/leader-borad/main/images/players/player-2.png",
+      "name": "James Riley",
+      "reting": 5,
+      "text" :"It's pretty but it wasn’t mentioned anywhere. Also if you're buying it for your phone. It's overall a good headset."
+    },
+    {
+      "_id": "624c020bd475cb0dd579d421",
+      "picture": "https://raw.githubusercontent.com/Rahim2725/leader-borad/main/images/players/player-3.png",
+      "name": "Rachel Nixon",
+      "reting": 4.6,
+      "text" :"Good Product, been using it for 2 weeks now and it's working fine so far. "
+    },
+    {
+      "_id": "624c020b55939eb65b7bcbb5",
+      "picture": "https://raw.githubusercontent.com/Rahim2725/leader-borad/main/images/players/player-4.png",
+      "name": "Page Carter",
+      "reting": 4.5,
+      "text" :"The sound quality is average for this price range and the bass is good."
+    },
+    {
+      "_id": "624c020b68cc62e37af6ef6c",
+      "picture": "https://raw.githubusercontent.com/Rahim2725/leader-borad/main/images/players/player-5.png",
+      "name": "Dena Camacho",
+      "reting": 4.8,
+      "text" :"You can take a good product if you want, the seller is a very good man."
+    },
+    {
+      "_id": "624c020b83206a8de854bdce",
+      "picture": "https://raw.githubusercontent.com/Rahim2725/leader-borad/main/images/players/player-6.png",
+      "name": "Lawanda Morrison",
+      "reting": 4.9,
+      "text" :"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur, molestiae."
+    }
+  ]
