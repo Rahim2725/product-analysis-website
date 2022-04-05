@@ -1,0 +1,15 @@
+.cart{
+    margin-left: 20px;
+    border: 5px solid orange;
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+    box-shadow: 1px 1px 15px gray;
+}
+.cart h3{
+    color: orange;
+    font-weight: bold;
+}
+.cart img{
+    width: 50%;
+}

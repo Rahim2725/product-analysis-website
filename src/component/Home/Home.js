@@ -2,8 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import image from '../../logo.jpg'
 import './Home.css'
+import '../Cart/Cart'
+import Cart from '../Cart/Cart';
+import useReviews from '../../hooks/useReviewa';
 
 const Home = () => {
+    const [reviews, setReviews] =useReviews()
     return (
         <div className='container'>
             <div className='home-container'>
@@ -18,8 +22,13 @@ const Home = () => {
             </div>
             <div className='customer-container'>
                 <h1>Customer Reviews</h1>
-                <div>
-
+                <div className='review-container'>
+                   {
+                       reviews.slice(0,3).map(review => <Cart
+                       key={review._id}
+                       review={review}
+                       ></Cart>)
+                   }
                 </div>
                 <Link to="/reviews" >
                     <button>All Customer Reviews</button>
