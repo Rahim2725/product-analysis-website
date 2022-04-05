@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import image from '../../logo.jpg'
 import './Home.css'
 
@@ -14,6 +15,15 @@ const Home = () => {
                 <div className='headphone-img'>
                     <img src={image} alt="logo" />
                 </div>
+            </div>
+            <div className='customer-container'>
+                <h1>Customer Reviews</h1>
+                <div>
+
+                </div>
+                <Link to="/reviews" >
+                    <button>All Customer Reviews</button>
+                </Link>
             </div>
         </div>
     );

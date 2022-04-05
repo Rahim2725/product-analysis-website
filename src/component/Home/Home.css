@@ -1,3 +1,6 @@
+.container{
+    margin: 50px;
+}
 .home-container{
     display: flex;
     align-items: center;
@@ -10,10 +13,7 @@
 .headphone-detail h1{
     color: orange;
 }
-.headphone-img{
-    display: flex ;
-    justify-content: end;
-}
+
 .home-container img{
     width: 50%;
 }
@@ -32,5 +32,17 @@
     background-color: gray;
 }
 
+.customer-container{
+    margin-top:200px;
+}
+
+.customer-container button {
+    border: 0;
+    background-color: blue;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
 
 
