@@ -1,10 +1,13 @@
-# Hadphone
+# HeadPhone
 
 This project link (https://headphone2725.netlify.app/).
 
-## Available Scripts
+## HeadPhone Work
+1. Reviews Item added
+2. Rechart Added 
+3. Router Added in This Project
+4. Cart Added and Home Page 3 Items Show
 
-In the project directory, you can run:
 
 ### `npm start`
 
